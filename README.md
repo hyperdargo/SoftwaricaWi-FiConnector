@@ -2,6 +2,7 @@
 ---
 
 # 📶 Softwarica WiFi Connector
+![GitHub](https://img.shields.io/badge/license_-AnkitGupta-red)
 
 A lightweight and user-friendly Python-based GUI tool that scans, connects, and authenticates to **Softwarica College Wi-Fi** networks such as `LR-XX`, `STWCU_LR-XX`, and `LR5`. The app is built using `tkinter`, `subprocess`, and `requests`, and is compiled into a standalone `.exe` for easy use on Windows systems.
 
